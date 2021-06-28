@@ -51,6 +51,7 @@
 <script src="../lib/js/bootstrap.min.js"></script>
 <script language="javascript" type="text/javascript" src="../lib/js/jquery.validate.min.js"></script>
 <script type="text/javascript">
+
     $(function() {
         jQuery("#basic-form").validate({ //inicamos la validación del formulario
             onfocusout: false,  //Si un objeto no cumple con la validación, tomara el foco 
