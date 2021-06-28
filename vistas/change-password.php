@@ -115,7 +115,7 @@
 						}
             		},
            		 	error: function(xhr, textStatus, errorThrown) {
-                		alert("Ocurrio un error al guardar");
+                		alert("Ocurrio un error al guardar.");
 					}
         		});
     		}
